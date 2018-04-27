@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cpu_cmp.svg"
+   sodipodi:docname="cpu_add.svg"
    inkscape:export-filename="/home/mgarcia/pydata_london/img/cpu_cmp.png"
    inkscape:export-xdpi="72.042297"
    inkscape:export-ydpi="72.042297">
@@ -92,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,7 +183,7 @@
          id="tspan4284-9"
          x="229.65947"
          y="840.8642"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;text-anchor:middle">CMP</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;text-anchor:middle">ADD</tspan><tspan
          sodipodi:role="line"
          x="229.65947"
          y="884.6142"
@@ -220,7 +220,7 @@
          x="313.86389"
          y="510.21222"
          id="tspan4288-8-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">41</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">66</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
